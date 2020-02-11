@@ -4,8 +4,11 @@ button {
     margin: 5px;
     padding: 1px;
     color: black;
-    background-color: aliceblue;
+    background-color: wheat;
+    border: none;
+
 }
-.special{
-    width:94px;
+
+.special {
+    width: 94px;
 }
